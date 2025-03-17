@@ -1,7 +1,7 @@
-##Sales & Profit Analysis
+## Sales & Profit Analysis
 This repository contains a Power BI report (SALES & PROFIT2.pbix) that provides detailed insights into sales performance, profitability, and related business metrics. The interactive dashboard helps stakeholders identify trends, optimize strategies, and make data-driven decisions.
 
-#Table of Contents
+# Table of Contents
 -Overview
 -Features
 -Getting Started
