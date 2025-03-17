@@ -13,6 +13,8 @@ This repository contains a Power BI report (SALES & PROFIT2.pbix) that provides 
 
 
 ## Overview
+
+![image alt](https://github.com/Softechanalytics/Sales_Profit_Analysis/blob/b2877b4888670125c0ba9542d7ce24cc5967dfb9/Dashboard.png)
 The Sales & Profit Analysis dashboard aims to:
 
 ## Track total sales and profit over time.
